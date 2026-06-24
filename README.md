@@ -1,0 +1,2 @@
+# ConfiguratoreCI
+Configuratore CI
